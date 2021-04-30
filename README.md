@@ -3,7 +3,7 @@
 #### Paper: [Factual Error Correction for Abstractive Summarization Models](https://arxiv.org/abs/2010.08712)
 
 ## Model architecture
- <img src="kobart.PNG" width="700">
+ <img src="kobart.png" width="700">
  
 ## Data
 - [Dacon 한국어 문서 생성요약 AI 경진대회](https://dacon.io/competitions/official/235673/overview/) 의 학습 데이터 + 국립 국어원 Data set
